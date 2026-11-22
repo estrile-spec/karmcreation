@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+desktop.ini
+
+# Temporary / editor files
+*.log
+*.tmp
+*.swp
+*~
+__*-test.html
+.vscode/
+.idea/
+
+# Dependencies and build output (none used by this site, but safe to ignore)
+node_modules/
+dist/
+build/
+
+# Private credentials and keys
+.env
+.env.*
+*.pem
+*.key
+*.p12
